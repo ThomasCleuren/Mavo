@@ -1,14 +1,32 @@
 {
 	"person": [
 		{
-			"email": "df",
-			"name": "Karel Stinkbek IV",
-			"birth_date": "2018-0dfdfd4-02"
+			"email": [
+				"df",
+				"dsgsdf@sd.dsd"
+			],
+			"name": [
+				"Karel Stinkbek IV",
+				"kevin"
+			],
+			"birth_date": [
+				"2018-0dfdfd4-02",
+				"2018-03-28"
+			]
 		},
 		{
-			"email": "kelly@sd.Sd",
-			"name": "Kelly Kelly",
-			"birth_date": "2018-04-03"
+			"email": [
+				"kelly@sd.Sd",
+				"dsgsdf@sd.dsd"
+			],
+			"name": [
+				"Kelly Kelly",
+				"max power"
+			],
+			"birth_date": [
+				"2018-04-03",
+				"2018-03-26"
+			]
 		}
 	],
 	"event": [
