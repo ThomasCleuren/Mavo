@@ -1,8 +1,19 @@
 {
 	"person": [
-		"\n    \n",
-		"Karel Stinkbek",
-		"kelly"
+		{
+			"email": "KarelStinkbek@dg.dg",
+			"name": [
+				"Karel Stinkbek",
+				"scs"
+			]
+		},
+		{
+			"email": "kelly@sd.Sd",
+			"name": [
+				"kelly",
+				"12/12/12"
+			]
+		}
 	],
 	"event": [
 		"\n\n",
