@@ -2,18 +2,12 @@
 	"person": [
 		{
 			"email": "KarelStinkbek@dg.dg",
-			"name": [
-				"Karel Stinkbek II",
-				"scs"
-			],
+			"name": "Karel Stinkbek II",
 			"birth_date": "ezr"
 		},
 		{
 			"email": "kelly@sd.Sd",
-			"name": [
-				"Kelly Kelly",
-				"12/12/12"
-			],
+			"name": "Kelly Kelly",
 			"birth_date": "12/12/12"
 		}
 	],
