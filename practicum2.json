@@ -1,16 +1,5 @@
 {
-	"people": [
-		{
-			"name": "patrick II",
-			"email": "p@a.z",
-			"birth_date": "2018-03-26"
-		},
-		{
-			"name": "miranda",
-			"email": "m@a.z",
-			"birth_date": "2018-03-27"
-		}
-	],
+	"people": [],
 	"events": [
 		"\n\n",
 		"Event 1",
