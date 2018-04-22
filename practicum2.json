@@ -5,14 +5,16 @@
 			"name": [
 				"Karel Stinkbek",
 				"scs"
-			]
+			],
+			"birth_date": "ezr"
 		},
 		{
 			"email": "kelly@sd.Sd",
 			"name": [
 				"kelly",
 				"12/12/12"
-			]
+			],
+			"birth_date": "12/12/12"
 		}
 	],
 	"event": [
