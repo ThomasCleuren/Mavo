@@ -6,6 +6,11 @@
 			"birth_date": "2018-03-26"
 		},
 		{
+			"name": "Patrick Platvoet",
+			"email": "Patrick@NHUBUK.be",
+			"birth_date": "2018-03-28"
+		},
+		{
 			"name": "Lisa Simpson",
 			"email": "Bartsucks@springfield.org",
 			"birth_date": "2018-03-27"
@@ -14,30 +19,9 @@
 			"name": "Bart Simpson",
 			"email": "ElBarto@springfield.org",
 			"birth_date": "2018-03-28"
-		},
-		{
-			"name": "Patrick Platvoet",
-			"email": "Patrick@NHUBUK.be",
-			"birth_date": "2018-03-28"
 		}
 	],
 	"events": [
-		{
-			"title": "Scam the scammers",
-			"description": "great fun!",
-			"start": "2018-03-26",
-			"end": "2018-04-17",
-			"confirmations": {
-				"attendee": [
-					{
-						"attendee_name": "Karel Stinkbek"
-					},
-					{
-						"attendee_name": "Patrick Platvoet"
-					}
-				]
-			}
-		},
 		{
 			"title": "BBQ",
 			"description": "a great bbq",
@@ -50,6 +34,22 @@
 					},
 					{
 						"attendee_name": "Bart Simpson"
+					}
+				]
+			}
+		},
+		{
+			"title": "Scam the scammers",
+			"description": "great fun!",
+			"start": "2018-03-26",
+			"end": "2018-04-17",
+			"confirmations": {
+				"attendee": [
+					{
+						"attendee_name": "Karel Stinkbek"
+					},
+					{
+						"attendee_name": "Patrick Platvoet"
 					}
 				]
 			}
