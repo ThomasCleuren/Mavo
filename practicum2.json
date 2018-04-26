@@ -80,6 +80,19 @@
 					}
 				]
 			}
+		},
+		{
+			"title": "Mavo Presentation",
+			"description": "A Mavo demonstration",
+			"start": "2018-04-27",
+			"end": "2018-04-27",
+			"confirmations": {
+				"attendee": [
+					{
+						"attendee_name": "Lea Verou"
+					}
+				]
+			}
 		}
 	]
 }
