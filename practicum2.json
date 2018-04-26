@@ -14,6 +14,11 @@
 			"name": "Bart Simpson",
 			"email": "ElBarto@springfield.org",
 			"birth_date": "2018-03-28"
+		},
+		{
+			"name": "Patrick Platvoet",
+			"email": "Patrick@NHUBUK.be",
+			"birth_date": "2018-03-28"
 		}
 	],
 	"events": [
@@ -26,6 +31,9 @@
 				"attendee": [
 					{
 						"person_name": "Karel Stinkbek"
+					},
+					{
+						"person_name": "Patrick Platvoet"
 					}
 				]
 			}
