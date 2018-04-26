@@ -4,13 +4,6 @@
 	],
 	"events": [
 		{
-			"confirmations": {
-				"attendee": [
-					{}
-				]
-			}
-		},
-		{
 			"title": "Event",
 			"description": "An event",
 			"start": "2018-03-26",
