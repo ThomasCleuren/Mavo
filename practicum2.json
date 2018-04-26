@@ -31,9 +31,11 @@
 					}
 				],
 				"person": [
-					{},
 					{
-						"person_name": "Karel Stinkbek"
+						"person_name": "Lisa Simpson"
+					},
+					{
+						"person_name": "Bart Simpson"
 					}
 				]
 			}
@@ -52,7 +54,9 @@
 					}
 				],
 				"person": [
-					{}
+					{
+						"person_name": "Karel Stinkbek"
+					}
 				]
 			}
 		}
