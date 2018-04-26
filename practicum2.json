@@ -28,6 +28,19 @@
 	],
 	"events": [
 		{
+			"title": "Mavo Presentation",
+			"description": "A Mavo demonstration",
+			"start": "2018-04-27",
+			"end": "2018-04-27",
+			"confirmations": {
+				"attendee": [
+					{
+						"attendee_name": "Lea Verou"
+					}
+				]
+			}
+		},
+		{
 			"title": "BBQ",
 			"description": "a great bbq",
 			"start": "2018-04-25",
@@ -77,19 +90,6 @@
 					},
 					{
 						"attendee_name": "Patrick Platvoet"
-					}
-				]
-			}
-		},
-		{
-			"title": "Mavo Presentation",
-			"description": "A Mavo demonstration",
-			"start": "2018-04-27",
-			"end": "2018-04-27",
-			"confirmations": {
-				"attendee": [
-					{
-						"attendee_name": "Lea Verou"
 					}
 				]
 			}
