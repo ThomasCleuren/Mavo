@@ -12,8 +12,22 @@
 		}
 	],
 	"events": [
-		"\n\n",
-		"Event 1",
-		"BBQ"
+		{
+			"name": "\n\n"
+		},
+		{
+			"name": "Event 1"
+		},
+		{
+			"name": "BBQ"
+		}
+	],
+	"collection": [
+		{},
+		{
+			"name": "paul",
+			"email": "p@p.p",
+			"birth_date": "2018-04-04"
+		}
 	]
 }
