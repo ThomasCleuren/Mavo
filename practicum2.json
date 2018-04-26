@@ -1,6 +1,20 @@
 {
 	"people": [
-		{}
+		{
+			"name": "Karel Stinkbek",
+			"email": "Karel@NHUBUK.be",
+			"birth_date": "2018-03-26"
+		},
+		{
+			"name": "Lisa Simpson",
+			"email": "Bartsucks@springfield.org",
+			"birth_date": "2018-03-27"
+		},
+		{
+			"name": "Bart Simpson",
+			"email": "ElBarto@springfield.org",
+			"birth_date": "2018-03-28"
+		}
 	],
 	"events": [
 		{
@@ -12,6 +26,22 @@
 				"attendee": [
 					{
 						"person_name": "Karel Stinkbek"
+					}
+				]
+			}
+		},
+		{
+			"title": "BBQ",
+			"description": "a great bbq",
+			"start": "2018-04-25",
+			"end": "2018-04-25",
+			"confirmations": {
+				"attendee": [
+					{
+						"person_name": "Lisa Simpson"
+					},
+					{
+						"person_name": "Bart Simpson"
 					}
 				]
 			}
