@@ -6,20 +6,20 @@
 			"birth_date": "2018-03-27"
 		},
 		{
-			"name": "PEWPEW",
-			"email": "Eerer",
+			"name": "Lisa",
+			"email": "IdontlikeBart@s.sp",
 			"birth_date": "2018-04-11"
 		}
 	],
 	"events": [
-		{
-			"name": "\n\n"
-		},
-		{
-			"name": "Event 1"
-		},
-		{
-			"name": "BBQ"
-		}
+		[
+			{}
+		],
+		[
+			{}
+		],
+		[
+			{}
+		]
 	]
 }
