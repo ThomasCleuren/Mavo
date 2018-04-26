@@ -30,10 +30,10 @@
 			"confirmations": {
 				"attendee": [
 					{
-						"person_name": "Karel Stinkbek"
+						"attendee_name": "Karel Stinkbek"
 					},
 					{
-						"person_name": "Patrick Platvoet"
+						"attendee_name": "Patrick Platvoet"
 					}
 				]
 			}
@@ -46,10 +46,10 @@
 			"confirmations": {
 				"attendee": [
 					{
-						"person_name": "Lisa Simpson"
+						"attendee_name": "Lisa Simpson"
 					},
 					{
-						"person_name": "Bart Simpson"
+						"attendee_name": "Bart Simpson"
 					}
 				]
 			}
@@ -62,13 +62,13 @@
 			"confirmations": {
 				"attendee": [
 					{
-						"person_name": "Lisa Simpson"
+						"attendee_name": "Lisa Simpson"
 					},
 					{
-						"person_name": "Bart Simpson"
+						"attendee_name": "Bart Simpson"
 					},
 					{
-						"person_name": "Karel Stinkbek"
+						"attendee_name": "Karel Stinkbek"
 					}
 				]
 			}
