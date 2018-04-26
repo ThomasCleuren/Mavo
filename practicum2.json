@@ -9,6 +9,11 @@
 			"name": "Lisa",
 			"email": "IdontlikeBart@s.sp",
 			"birth_date": "2018-04-11"
+		},
+		{
+			"name": "Bart Simpson",
+			"email": "ElBarto@springfield.org",
+			"birth_date": "2018-03-26"
 		}
 	],
 	"events": [
