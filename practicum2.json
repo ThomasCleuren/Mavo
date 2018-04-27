@@ -102,7 +102,11 @@
 		{
 			"confirmations": {
 				"attendee": []
-			}
+			},
+			"title": "Datetime-Local party",
+			"description": "lets display a datetime-local",
+			"start": "1212-12-12T12:12",
+			"end": "1212-12-12T12:12"
 		}
 	]
 }
