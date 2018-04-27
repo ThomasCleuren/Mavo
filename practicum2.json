@@ -29,6 +29,11 @@
 			"email": "aze@aze.aze",
 			"birth_date": "2018-04-11",
 			"name": "validatie plis"
+		},
+		{
+			"name": "Developper",
+			"email": "developers@developers.developers",
+			"birth_date": "2018-04-26"
 		}
 	],
 	"events": [
