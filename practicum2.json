@@ -103,19 +103,6 @@
 					}
 				]
 			}
-		},
-		{
-			"confirmations": {
-				"attendee": [
-					{
-						"attendee_name": "Developer"
-					}
-				]
-			},
-			"title": "Datetime-Local party",
-			"description": "lets try to display a datetime-local",
-			"start": "1212-12-12T12:12",
-			"end": "1212-12-12T12:12"
 		}
 	]
 }
