@@ -24,6 +24,10 @@
 			"name": "Bart Simpson",
 			"email": "ElBarto@springfield.org",
 			"birth_date": "2018-03-28"
+		},
+		{
+			"email": "aze",
+			"birth_date": "2018-04-11"
 		}
 	],
 	"events": [
